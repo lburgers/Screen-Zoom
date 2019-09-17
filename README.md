@@ -20,6 +20,6 @@ In the `/home/pi` directory create a new script called `startBloom.sh` with this
 ```
 processing-java –sketch=/full/path/to/infinite_rectangles --force --run
 ```
-Add the line `@bash /home/pi/startBloom.sh` to the end of the file `~/.config/lxsession/LXDE-pi/autostart`
+Add the line `@bash /home/pi/startBloom.sh` to the end of the file `/etc/xdg/lxsession/LXDE-pi/autostart`
 
 Now the processing sketch should run on boot!
