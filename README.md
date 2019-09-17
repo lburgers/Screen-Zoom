@@ -2,6 +2,7 @@
 Infinite zoom generative art display for the Becton Cafe.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ht1_2JQ3BMo/0.jpg)](http://www.youtube.com/watch?v=ht1_2JQ3BMo "Screen Blossom")
+Click the above image to watch the video.
 
 Randomly generated new colors cascade outward in rectangular rings from the center.
 Both the color and length of the shift are generated randomly. 
